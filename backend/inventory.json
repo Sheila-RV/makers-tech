@@ -1,0 +1,25 @@
+{
+  "computers": [
+    {
+      "brand": "HP",
+      "model": "HP Pavilion",
+      "stock": 2,
+      "price": 650,
+      "features": "8GB RAM, 256GB SSD, Intel i5"
+    },
+    {
+      "brand": "Dell",
+      "model": "Dell Inspiron",
+      "stock": 1,
+      "price": 699,
+      "features": "8GB RAM, 512GB SSD, Intel i5"
+    },
+    {
+      "brand": "Apple",
+      "model": "MacBook Air",
+      "stock": 1,
+      "price": 999,
+      "features": "8GB RAM, 256GB SSD, M1 chip"
+    }
+  ]
+}
